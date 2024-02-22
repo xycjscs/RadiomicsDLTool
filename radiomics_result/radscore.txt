@@ -1,0 +1,1 @@
+Radscore =  0.009*wavelet.LLL_glszm_region_SizeZoneNonUniformity+-0.057*wavelet.HHH_glrlm_region_GrayLevelNonUniformityNormalized+0.284*wavelet.LLH_glszm_region_GrayLevelNonUniformity+0.241*wavelet.HHH_glcm_region_Imc2 + -0.308
