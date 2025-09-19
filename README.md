@@ -1,6 +1,6 @@
 # RadiomicsDLTool
 
-#### This is updating for Title: A preoperative CT-based deep learning radiomics model in predicting histologic grade and outcome in chondrosarcoma
+#### This is updating for Title: A preoperative CT-based deep learning radiomics model in predicting the stage, size, grade and necrosis score and outcome in localized clear cell renal cell carcinoma: A multicenter study
 
 ## Final code and model weights clarify
 ### Ai features
